@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Resume"
-      url: "/assets/images/resume.pdf"
+      url: /assets/images/resume.pdf
   caption: ""
 excerpt: ""
 classes: wide
