@@ -30,8 +30,8 @@ intro:
 
         PS. Just a thought, I think we will solve "Intelligence" in our lifetime. 
 
-feature_row3:
-  - title: "Experience"
+# feature_row3:
+#   - title: "Experience"
 
 # feature_row:
 #   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
