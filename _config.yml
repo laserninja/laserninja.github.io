@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Akshay Thorat's Portfolio website
+title: Akshay Thorat's homepage
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Akshay Thorat's Portfolio website
+  Akshay Thorat's homepage
 twitter_username: thoruto
 github_username: laserninja
 minimal_mistakes_skin: default
@@ -112,7 +112,10 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/thoruto/"
-
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/thoruto/"
+      
 defaults:
   # _posts
   - scope:
