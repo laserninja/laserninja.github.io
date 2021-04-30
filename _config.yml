@@ -87,7 +87,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/thoruto/"
-
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/thoruto/"
 # excerpt: "This post should [...]"
 # header:
 #   image: /assets/images/unsplash-image-1.jpg
